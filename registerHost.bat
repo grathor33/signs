@@ -1,0 +1,1 @@
+call "C:/KD/_KDPROJ/JAVA/_runn/host/%COMPUTERNAME%.bat"
