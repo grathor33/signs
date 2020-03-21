@@ -1,1 +1,0 @@
-call "/op/KD/_KDPROJ/JAVA/_runn/host/%COMPUTERNAME%.sh"
