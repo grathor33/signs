@@ -38,7 +38,7 @@
 		<spring-cloud-alibaba.version>2.2.0.RELEASE</spring-cloud-alibaba.version>
 		<spring-cloud-services.version>2.2.1.RELEASE</spring-cloud-services.version>
 		<spring-cloud.version>Hoxton.SR1</spring-cloud.version>
-		<vaadin.version>14.1.17</vaadin.version>
+		<vaadin.version>14.6.8</vaadin.version>
 		
         <!-- Environment properties -->
 		<maven-required.version>3.5.2</maven-required.version>
